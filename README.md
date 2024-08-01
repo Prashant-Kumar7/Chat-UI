@@ -5,7 +5,7 @@ To run this repo locally, follow below steps.
 step 1: clone this repo in your local machine using git clone command.
 
 
-step 2: after the repo is cloned cd into the cloned repo and run npm install to install all the dependencies
+step 2: after the repo is cloned cd into the cloned repo and run "npm install" to install all the dependencies
 
 
 step 3: after installing the dependencies run "npm run dev" command in the terminal to start the react app locally
